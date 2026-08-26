@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+yfinance
+pandas-datareader
+scikit-learn
+ipykernel
